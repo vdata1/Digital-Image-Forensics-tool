@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   MULTIMEDIA DATA SECURITY COURSE                     %
 %                                                       %
-%   2° PROJECT/COMPETITION                              %
+%   2Â° PROJECT/COMPETITION                              %
 %                                                       %
 %   Group name: Crazy                                   %
 %   members:    Kristjan Gjika                          %
@@ -37,9 +37,6 @@ Sintax:
 Clarifications:
 ===============
 
-PLEASE UNZIP SUPPORT.zip BEFORE USING THE TOOL!
-
-
 The function run under matlab environment, the Add-on 2 is required for the 
 complete computation of all strategies of detctions. Is not necessary for a
 partial working of the function. The add-on was not provider because it's
@@ -64,6 +61,11 @@ folder SUPPORT/tmp, those image are NOT deleted after completing the detection.
 There are not needed other initial configuration, all the necessary path are
 setted by the function.
 
-
-
+====================
+Setting up the tool
+====================
+Before using the tool, please do the following!: 
+1- UNZIP SUPPORT_01.zip BEFORE and rename it to "SUPPORT"!
+2- Download the camera's data file using the following link, after that, please add the folder as a subfolder to SUPPORT, sorry for such complicated stuff, but each camera signature is more than the file size limit! the link is:  
+https://drive.google.com/open?id=1PNVVn0j4DwpgwrVEOiYYeEa7h-8_CUVg
 

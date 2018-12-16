@@ -59,7 +59,7 @@ For computation requirment the function will write some test image into the
 folder SUPPORT/tmp, those image are NOT deleted after completing the detection.
 
 There are not needed other initial configuration, all the necessary path are
-setted by the function.
+set by the function.
 
 ====================
 Setting up the tool

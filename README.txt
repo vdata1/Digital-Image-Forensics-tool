@@ -14,7 +14,7 @@
 
 
 README file
-
+============
 Environment: 
 ============
 
@@ -25,6 +25,7 @@ Environment:
 
     - Windows 10
 
+=======
 Sintax: 
 =======
 
@@ -32,31 +33,27 @@ Sintax:
     
     - name_file:    path + name file for which you ask for forgering detection
     - name_output:  path + name file of the bitmap image 
-
-
+    
+===============
 Clarifications:
 ===============
 
-The function run under matlab environment, the Add-on 2 is required for the 
-complete computation of all strategies of detctions. Is not necessary for a
-partial working of the function. The add-on was not provider because it's
-manual compilation give error, but the the compilation internal of matlab 
-work well.
+The function run under Matlab environment, Add-on 2 is required for the complete computation of all strategies of detections. Is not necessary for a
+partial working of the function. The add-on was not provided because it's
+manual compilation gives an error, but the compilation internal of Matlab work well.
 
-The function was tested under Windows 10, no test are made under Linux or 
-MacOS, anyway there all the precompiled support function for linux as well 
-but not tested. We prefer to do it 
+The function was tested under Windows 10, no test is made under Linux or 
+MacOS, anyway there all the precompiled support function for Linux as well but not tested. We prefer to do it 
 
 The function will save the image into the folder RESULTS with the same name
 of the input image but different extension, as required the extension will
 be *.bmp .
 
 The function is programmed for creating a log file, debug_output.txt of all
-the operation that are performed. If there are malfunction we ask you to 
-give us the log file to understand what was go wrong. 
+the operation that is performed. If there is malfunction we ask you to give us the log file to understand what was going wrong. 
 
-For computation requirment the function will write some test image into the
-folder SUPPORT/tmp, those image are NOT deleted after completing the detection.
+For computation requirement, the function will write some test image into the
+folder SUPPORT/tmp, those images will NOT be deleted after completing the detection.
 
 There are not needed other initial configuration, all the necessary path are
 set by the function.
